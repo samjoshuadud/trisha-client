@@ -11,14 +11,25 @@ https://templatemo.com/tm-578-first-portfolio
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
+  /* Primary Colors */
   --white-color:                  #ffffff;
-  --primary-color:                #535da1;
-  --secondary-color:              #14B789;
-  --section-bg-color:             #f9f9f9;
-  --dark-color:                   #000000;
-  --p-color:                      #717275;
-  --border-color:                 #e9eaeb;
-  --featured-border-color:        #727aab;
+  --primary-color:               #2C3E50;  /* Deep blue-gray */
+  --secondary-color:             #34495E;  /* Darker blue-gray */
+  
+  /* Background Colors */
+  --section-bg-color:            #F8F9FA;  /* Light gray background */
+  
+  /* Text Colors */
+  --dark-color:                  #1A202C;  /* Nearly black for text */
+  --p-color:                     #4A5568;  /* Medium gray for paragraphs */
+  
+  /* Border Colors */
+  --border-color:                #E2E8F0;  /* Light gray for borders */
+  --featured-border-color:       #CBD5E0;  /* Slightly darker border */
+
+  /* Hover States */
+  --hover-color:                 #3D4852;  /* Darker shade for hover effects */
+  --hover-light:                 #EDF2F7;  /* Light hover background */
 
   --body-font-family:             'DM Sans', sans-serif;
 
